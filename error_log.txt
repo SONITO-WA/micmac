@@ -1,0 +1,348 @@
+[12-May-2025 00:26:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:26:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:26:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:26:12 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:29:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:29:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:29:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:29:40 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:30:09 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:30:09 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:30:09 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:30:09 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:30:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:30:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:30:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:30:33 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:30:37 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:30:37 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:30:37 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:30:37 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:32:26 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 39
+[12-May-2025 00:32:26 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 44
+[12-May-2025 00:32:26 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 48
+[12-May-2025 00:32:26 Europe/Berlin] PHP Deprecated:  Function utf8_decode() is deprecated in C:\xampp\htdocs\projet\enregistrer_commande.php on line 57
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "R" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "§" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "C" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "-" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "I" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "f" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "Q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "©" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "x" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "T" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "l" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:44:51 Europe/Berlin] PHP Warning:  file_get_contents(C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z): Failed to open stream: No such file or directory in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 1611
+[12-May-2025 00:44:51 Europe/Berlin] PHP Fatal error:  Uncaught Exception: FPDF error: Font file not found: C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php:267
+Stack trace:
+#0 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1613): FPDF->Error('Font file not f...')
+#1 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1847): FPDF->_putfonts()
+#2 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1903): FPDF->_putresources()
+#3 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(284): FPDF->_enddoc()
+#4 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(988): FPDF->Close()
+#5 C:\xampp\htdocs\projet\enregistrer_commande.php(84): FPDF->Output('F', 'factures/comman...')
+#6 {main}
+  thrown in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 267
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "R" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "§" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "C" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "-" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "I" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "f" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "Q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "©" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "x" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "T" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "l" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:27 Europe/Berlin] PHP Warning:  file_get_contents(C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z): Failed to open stream: No such file or directory in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 1611
+[12-May-2025 00:45:27 Europe/Berlin] PHP Fatal error:  Uncaught Exception: FPDF error: Font file not found: C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php:267
+Stack trace:
+#0 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1613): FPDF->Error('Font file not f...')
+#1 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1847): FPDF->_putfonts()
+#2 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1903): FPDF->_putresources()
+#3 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(284): FPDF->_enddoc()
+#4 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(988): FPDF->Close()
+#5 C:\xampp\htdocs\projet\enregistrer_commande.php(84): FPDF->Output('F', 'factures/comman...')
+#6 {main}
+  thrown in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 267
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "R" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "§" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "C" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "-" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "M" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "c" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "I" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "f" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "m" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "e" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "d" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "Q" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "u" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "n" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "Ã" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "©" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "P" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "r" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "x" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "T" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "o" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "t" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "a" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "l" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "(" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key ")" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "." in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key " " in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "D" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  Undefined array key "H" in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 413
+[12-May-2025 00:45:45 Europe/Berlin] PHP Warning:  file_get_contents(C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z): Failed to open stream: No such file or directory in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 1611
+[12-May-2025 00:45:45 Europe/Berlin] PHP Fatal error:  Uncaught Exception: FPDF error: Font file not found: C:\xampp\htdocs\projet\vendor\fpdf/font/dejavusanscondensed.z in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php:267
+Stack trace:
+#0 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1613): FPDF->Error('Font file not f...')
+#1 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1847): FPDF->_putfonts()
+#2 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(1903): FPDF->_putresources()
+#3 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(284): FPDF->_enddoc()
+#4 C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php(988): FPDF->Close()
+#5 C:\xampp\htdocs\projet\enregistrer_commande.php(84): FPDF->Output('F', 'factures/comman...')
+#6 {main}
+  thrown in C:\xampp\htdocs\projet\vendor\fpdf\fpdf.php on line 267

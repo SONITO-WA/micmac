@@ -1,0 +1,9 @@
+app = 'micmac'
+primary_region = 'fra'
+
+[build]
+  dockerfile = "Dockerfile"  # ← Conservez cette ligne si elle existe
+
+[http_service]
+  internal_port = 80
+  force_https = true
