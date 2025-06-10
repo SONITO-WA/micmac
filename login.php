@@ -64,8 +64,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       border-radius: 20px;
       overflow: hidden;
       box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+      width: 90%;
       max-width: 900px;
-      width: 100%;
       z-index: 1;
     }
     .login-left {
