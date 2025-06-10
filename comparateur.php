@@ -1,4 +1,8 @@
 <?php
+// Démarrer la session en premier
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 require_once 'db/connexion.php';
 $produits = $pdo->query("SELECT id, nom, prix, garantie FROM produits ORDER BY prix ASC")->fetchAll(PDO::FETCH_ASSOC);
 ?>
