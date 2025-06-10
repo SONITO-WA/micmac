@@ -831,3 +831,132 @@ body {
 .navbar-micmac .dropdown-menu li a:hover {
   background-color: #005a99;
 }
+/* Ajoutez ces règles à votre fichier CSS */
+
+/* Base responsive */
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  
+  body {
+    padding-top: 100px !important; /* Réduire l'espace pour le header fixe */
+  }
+}
+
+/* Header responsive */
+@media (max-width: 768px) {
+  .header-container {
+    padding: 15px 20px;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .nav-links {
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .header-actions {
+    margin-top: 15px;
+    justify-content: center;
+  }
+}
+
+/* Menu déroulant mobile */
+@media (max-width: 768px) {
+  .dropdown-menu {
+    position: static;
+    display: none;
+    width: 100%;
+    box-shadow: none;
+    animation: none;
+  }
+  
+  .nav-links .dropdown:hover .dropdown-menu {
+    display: none; /* Désactiver le hover sur mobile */
+  }
+  
+  /* Optionnel : ajouter un bouton pour ouvrir le menu déroulant */
+  .dropdown > a::after {
+    content: " ▼";
+  }
+}
+
+/* Grille de produits responsive */
+@media (max-width: 768px) {
+  .products-grid {
+    grid-template-columns: 1fr;
+    padding: 20px 15px;
+    gap: 15px;
+  }
+}
+
+/* Hero section responsive */
+@media (max-width: 768px) {
+  .hero {
+    padding: 30px 15px;
+  }
+  
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+  
+  .hero p {
+    font-size: 1rem;
+  }
+  
+  .hero-img {
+    width: 100% !important;
+    max-width: 100%;
+  }
+}
+
+/* Section sécurité responsive */
+@media (max-width: 768px) {
+  .section-securite {
+    padding: 30px 15px;
+    margin: 30px 15px;
+    border-radius: 20px;
+  }
+  
+  .icon-card {
+    width: 80px;
+    height: 80px;
+    font-size: 35px;
+    margin: 0 auto 20px;
+  }
+}
+
+/* Footer responsive */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    padding: 0 20px;
+  }
+  
+  .footer-section {
+    margin-bottom: 30px;
+  }
+}
+
+/* Correction des tailles de texte */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem !important;
+  }
+  
+  h2 {
+    font-size: 1.3rem !important;
+  }
+  
+  .btn-login, .discover-btn {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+}
