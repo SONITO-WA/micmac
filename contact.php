@@ -1,4 +1,8 @@
 <?php 
+// Démarrer la session en premier
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 require_once 'db/connexion.php'; // contient la variable $pdo
