@@ -1,3 +1,9 @@
+<?php
+// Démarrer la session en premier
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
