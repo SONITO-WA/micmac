@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+<?php
+
+?> 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
 <style>
@@ -160,8 +160,7 @@ body {
   }
 
 </style>
-</head>
-<body>
+
 <header class="navbar-micmac">
   <div class="nav-container">
 
@@ -210,7 +209,7 @@ body {
       <?php endif; ?>
     </div>
   </div>
-
+  <script src="js/theme.js"></script>
 
 </header>
 
