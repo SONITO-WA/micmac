@@ -1,4 +1,8 @@
 <?php
+// Démarrer la session en premier
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 require_once 'db/connexion.php';
 require_once 'includes/header.php';
 
