@@ -506,7 +506,7 @@ body {
 
 .hero-img {
   border-radius: 20px;
-  width: 570px;       /* ✅ Taille fixée de manière propre */
+  width: auto;       /* ✅ Taille fixée de manière propre */
   height: auto;
   object-fit: cover;
   background-color: #f1f1f1;
