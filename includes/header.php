@@ -156,7 +156,9 @@
 body {
   padding-top: 80px; /* Ajuste selon la hauteur de ta navbar */
 }
-
+html {
+        font-size: 14px;
+      }
   }
 
 </style>
