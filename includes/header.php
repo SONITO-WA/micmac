@@ -1,171 +1,170 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MIC MAC</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      margin: 0;
-      padding-top: 80px; /* Ajusté selon la hauteur du header */
-    }
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-    .navbar-micmac {
-      background: #007BBD;
-      color: white;
-      padding: 10px 30px;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      z-index: 9999;
-    }
+<style>
+  .navbar-micmac {
+    background: #007BBD;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 30px;
+  }
 
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo a {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+  }
+
+  .nav-center {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-center li {
+    position: relative;
+  }
+
+  .nav-center a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 5px 8px;
+    transition: 0.3s;
+  }
+
+  .nav-center a:hover {
+    color:rgb(66, 131, 163);
+  }
+
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    background: white;
+    padding: 10px;
+    border-radius: 6px;
+    top: 35px;
+    left: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    z-index: 999;
+    min-width: 160px;
+  }
+
+  .dropdown-menu li {
+    margin-bottom: 6px;
+  }
+
+  .dropdown-menu a {
+    color: #003366 !important;
+  }
+
+  .dropdown-menu a:hover {
+    color: #007BBD !important;
+  }
+
+  .btn-admin {
+    background: transparent;
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    transition: 0.3s;
+    margin-right: 10px;
+  }
+
+  .btn-admin:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .btn-login {
+    background-color:rgb(25, 25, 132) ;
+    color: #007BBD;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .btn-deco {
+    background-color: #e74c3c;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+
+  .admin-badge {
+    background: #004477;
+    color: white;
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border-radius: 5px;
+    margin-left: 6px;
+    font-weight: bold;
+  }
+
+  .user-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .user-section img {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
     .nav-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-
-    .logo a {
-      font-size: 1.6em;
-      font-weight: bold;
-      color: white;
-      text-decoration: none;
+      flex-direction: column;
+      align-items: flex-start;
     }
 
     .nav-center {
-      display: flex;
-      align-items: center;
-      list-style: none;
-      gap: 20px;
-      margin: 0;
-      padding: 0;
-    }
-
-    .nav-center li {
-      position: relative;
-    }
-
-    .nav-center a {
-      color: white;
-      text-decoration: none;
-      font-weight: 500;
-      padding: 5px 8px;
-      transition: 0.3s;
-    }
-
-    .nav-center a:hover {
-      color: rgb(66, 131, 163);
-    }
-
-    .dropdown-menu {
-      display: none;
-      position: absolute;
-      background: white;
-      padding: 10px;
-      border-radius: 6px;
-      top: 35px;
-      left: 0;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-      z-index: 999;
-      min-width: 160px;
-    }
-
-    .dropdown-menu li {
-      margin-bottom: 6px;
-    }
-
-    .dropdown-menu a {
-      color: #003366 !important;
-    }
-
-    .dropdown-menu a:hover {
-      color: #007BBD !important;
-    }
-
-    .btn-admin {
-      background: transparent;
-      border: 1px solid white;
-      padding: 5px 10px;
-      border-radius: 5px;
-      color: white;
-      font-weight: 500;
-      text-decoration: none;
-      transition: 0.3s;
-      margin-right: 10px;
-    }
-
-    .btn-admin:hover {
-      background-color: rgba(255, 255, 255, 0.15);
-    }
-
-    .btn-login {
-      background-color: rgb(25, 25, 132);
-      color: #007BBD;
-      padding: 5px 10px;
-      border-radius: 5px;
-      font-weight: 600;
-      text-decoration: none;
-    }
-
-    .btn-deco {
-      background-color: #e74c3c;
-      color: white;
-      padding: 6px 12px;
-      border-radius: 5px;
-      font-weight: 600;
-      text-decoration: none;
-      margin-left: 10px;
-    }
-
-    .admin-badge {
-      background: #004477;
-      color: white;
-      font-size: 0.75em;
-      padding: 3px 8px;
-      border-radius: 5px;
-      margin-left: 6px;
-      font-weight: bold;
-    }
-
-    .user-section {
-      display: flex;
-      align-items: center;
+      flex-wrap: wrap;
       gap: 10px;
     }
 
-    .user-section img {
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      object-fit: cover;
+    .user-section {
+      margin-top: 10px;
     }
+    .main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+body {
+  padding-top: 80px; /* Ajuste selon la hauteur de ta navbar */
+}
 
-    @media (max-width: 768px) {
-      .nav-container {
-        flex-direction: column;
-        align-items: flex-start;
-      }
+  }
 
-      .nav-center {
-        flex-wrap: wrap;
-        gap: 10px;
-      }
-
-      .user-section {
-        margin-top: 10px;
-      }
-    }
-  </style>
+</style>
 </head>
 <body>
-
 <header class="navbar-micmac">
   <div class="nav-container">
+
     <div class="logo">
       <a href="index.php">MIC MAC</a>
     </div>
@@ -211,6 +210,8 @@
       <?php endif; ?>
     </div>
   </div>
+
+
 </header>
 
 <script>
@@ -227,6 +228,3 @@
     });
   });
 </script>
-
-</body>
-</html>
