@@ -830,3 +830,56 @@ body {
 .navbar-micmac .dropdown-menu li a:hover {
   background-color: #005a99;
 }
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding-top: 120px; /* Réduire l'espace header sur mobile */
+    }
+    
+    .hero {
+        padding: 30px 20px; /* Réduire le padding */
+        flex-direction: column;
+    }
+    
+    .hero-content h1 {
+        font-size: 28px; /* Réduire la taille du titre */
+        text-align: center;
+    }
+    
+    .hero-img {
+        width: 100%;
+        max-width: 300px; /* Limiter la taille sur mobile */
+    }
+    
+    .section-securite {
+        padding: 30px 20px; /* Réduire le padding */
+        margin: 30px 20px;
+    }
+    
+    .header-container {
+        padding: 15px 20px; /* Réduire le padding header */
+    }
+    
+    .nav-links {
+        display: none; /* Masquer ou adapter la navigation */
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-content h1 {
+        font-size: 24px; /* Encore plus petit sur très petits écrans */
+    }
+    
+    .subtitle {
+        font-size: 16px;
+    }
+    
+    .service-wrapper {
+        gap: 20px; /* Réduire l'espace entre services */
+    }
+    
+    .service-box {
+        width: 100%;
+        max-width: 280px;
+    }
+}
