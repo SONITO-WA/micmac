@@ -1,8 +1,3 @@
-<?php 
-    session_start();
-    include 'includes/header.php'; 
-?>
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -20,7 +15,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
+<?php include 'includes/header.php'; ?>
 <section class="hero">
   <div class="hero-content">
     <h1><span class="highlight">Votre Partenaire</span> en <span class="highlight">Informatique</span><br> et Technologies Numériques</h1>
