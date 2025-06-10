@@ -157,19 +157,83 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       }
     }
 
-    @media (max-width: 768px) {
-      .register-container {
-        flex-direction: column;
-      }
+    /* Modifiez/ajoutez ces règles CSS dans la section <style> de register.php */
 
-      .register-left {
-        padding: 30px 20px;
-      }
+/* Remplacez l'ancienne media query par celle-ci */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+    padding: 10px;
+  }
+  
+  .register-container {
+    flex-direction: column;
+    max-width: 95%;
+    margin: 0 auto;
+  }
 
-      .register-right {
-        padding: 30px 20px;
-      }
-    }
+  .register-left {
+    padding: 25px 20px;
+    order: 1; /* Affiche en premier sur mobile */
+  }
+
+  .register-right {
+    padding: 25px 20px;
+    order: 2;
+  }
+  
+  .register-left h2 {
+    font-size: 22px;
+  }
+  
+  .register-left p {
+    font-size: 14px;
+  }
+  
+  .register-left img {
+    width: 80px;
+  }
+  
+  form input {
+    padding: 14px;
+    font-size: 16px; /* Évite le zoom sur iOS */
+  }
+  
+  button[type="submit"] {
+    padding: 16px;
+    font-size: 16px;
+  }
+  
+  .row {
+    flex-direction: column;
+    gap: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .register-container {
+    width: 100%;
+    border-radius: 10px;
+    margin: 5px;
+  }
+  
+  .register-left,
+  .register-right {
+    padding: 20px 15px;
+  }
+  
+  .register-right h3 {
+    font-size: 20px;
+  }
+  
+  .register-left h2 {
+    font-size: 20px;
+  }
+  
+  .register-left p {
+    font-size: 13px;
+  }
+}
   </style>
 </head>
 <body>
