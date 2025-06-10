@@ -173,6 +173,85 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       cursor: pointer;
       color: #777;
     }
+      /* Ajoutez ces règles CSS dans la section <style> de login.php */
+
+/* Media queries pour mobile */
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+    background-attachment: scroll;
+    padding: 10px;
+  }
+  
+  .login-container {
+    flex-direction: column;
+    width: 95%;
+    max-width: none;
+    margin: 0 auto;
+  }
+  
+  .login-left {
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  .login-left h2 {
+    font-size: 22px;
+    line-height: 1.3;
+  }
+  
+  .login-left p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  .login-left img {
+    width: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .login-right {
+    padding: 30px 20px;
+  }
+  
+  .login-right input[type="email"],
+  .login-right input[type="password"] {
+    padding: 14px;
+    font-size: 16px; /* Évite le zoom sur iOS */
+  }
+  
+  .login-right button {
+    padding: 14px;
+    font-size: 16px;
+  }
+  
+  .login-right .extra {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .login-container {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .login-left,
+  .login-right {
+    padding: 20px 15px;
+  }
+  
+  .login-left h2 {
+    font-size: 20px;
+  }
+  
+  .login-left p {
+    font-size: 13px;
+  }
+}
   </style>
 </head>
 <body>
