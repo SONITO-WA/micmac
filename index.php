@@ -29,7 +29,7 @@
   </div>
 
   <div class="hero-images">
-    <img src="images/micmaca.jpg" alt="Portrait 1" class="hero-img">
+    <img src="images/micmaca.jpg" alt="Portrait 1" class="hero-img" loading="lazy">
 
   </div>
 </section>
